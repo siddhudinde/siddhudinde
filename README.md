@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhudinde&label=Views&color=blue&style=plastic" alt="siddhudinde" /> </p>
 
 <a href="https://www.linkedin.com/feed/">
   <img align="left" alt="Siddhu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
