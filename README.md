@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/siddhu_dinde/">
   <img align="left" alt="Siddhu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<a href="https://www.instagram.com/siddhu_dinde/">
+  <img align="left" alt="Siddhu's facebook" width="22px" src="https://www.flaticon.com/free-icon/email_561188?term=email&page=1&position=3" />
+</a>
 <br/><br/>
