@@ -29,3 +29,4 @@ Here are some ideas to get you started:
   <img align="left" alt="Siddhu's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />
 </a>
 <br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhudinde&layout=compact)
