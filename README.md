@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/siddhu_dinde/">
   <img align="left" alt="Siddhu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.instagram.com/siddhu_dinde/">
-  <img align="left" alt="Siddhu's facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-email-1.png3" />
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+  <img align="left" alt="Siddhu's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />
 </a>
 <br/><br/>
