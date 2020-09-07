@@ -20,13 +20,13 @@ Here are some ideas to get you started:
   <img align="left" alt="Siddhu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/siddhudinde">
-  <img align="left" alt="Siddhu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Siddhu's Github" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" />
 </a>
 <a href="https://www.instagram.com/siddhu_dinde/">
-  <img align="left" alt="Siddhu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Siddhu's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384063.svg" />
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-  <img align="left" alt="Siddhu's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />
+  <img align="left" alt="Siddhu's facebook" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
 </a>
 <br/>
 <br/>
