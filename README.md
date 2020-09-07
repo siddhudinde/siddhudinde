@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhudinde&label=Views&color=blue&style=plastic" alt="siddhudinde" /> </p>
 
 <a href="https://www.linkedin.com/feed/">
-  <img align="left" alt="Siddhu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Siddhu's Linkdein" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 <a href="https://github.com/siddhudinde">
   <img align="left" alt="Siddhu's Github" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" />
